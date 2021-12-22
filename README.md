@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## <img src="gifs/Hi.gif" width="29px"> 
 
 <p>
     <a href="https://t.me/doozylab" target="blank"><img src="https://img.shields.io/badge/@ᴅᴏᴏᴢʏ_ʟᴀʙ_ʟᴋ-30302f?style=flat&logo=telegram" /></a>
