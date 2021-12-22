@@ -1,7 +1,7 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
 <p>
-    <a href="https://t.me/doozylab" target="blank"><img src="https://img.shields.io/badge/@ᴅᴏᴏᴢʏ_ʟᴀʙ_ʟᴋ-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/doozylab" target="blank"><img src="https://img.shields.io/badge/@TEAM-DLK-30302f?style=flat&logo=telegram" /></a>
 
 ___
 
@@ -31,8 +31,8 @@ ___
 
 
  
- ​-​ ![​Profile views​](https://gpvc.arturio.dev/doozylab-lk) 
- ​-​ [![​GitHub followers​](https://img.shields.io/github/followers/doozylab-lk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/doozylab-lk?tab=followers) 
+ ​-​ ![​Profile views​](https://gpvc.arturio.dev/TEAM-DLK) 
+ ​-​ [![​GitHub followers​](https://img.shields.io/github/followers/doozylab-lk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TEAM-DLK?tab=followers) 
 
 
 
@@ -43,4 +43,4 @@ ___
 
  
  ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
- ​![​VisitorCount​](https://profile-counter.glitch.me/{doozylab-lk}/count.svg)
+ ​![​VisitorCount​](https://profile-counter.glitch.me/{TEAM-DLK}/count.svg)
