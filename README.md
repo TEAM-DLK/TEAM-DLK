@@ -1,7 +1,7 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
 <p>
-    <a href="https://t.me/dooztlab" target="blank"><img src="https://img.shields.io/badge/@TEAM-DLK-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/TeamDLK" target="blank"><img src="https://img.shields.io/badge/@TEAM-DLK-30302f?style=flat&logo=telegram" /></a>
 
 ___
 
