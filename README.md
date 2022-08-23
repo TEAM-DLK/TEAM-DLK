@@ -29,17 +29,13 @@ ___
  
   
 ## Social 📫
-<div align="center">
-    <a href="mailto:henrique.djdoozy39@gmail.com">
-         <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:henrique.claranhan@outlook.com">
-   
-     </a>
+    </a>
     &nbsp;
-    <a href="https://t.me/SLDOOZY">
+    <a href="https://t.me/SLSOOZY">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/_dhananajaya.madhusanka">
+    <a href="https://www.instagram.com/_dhananjaya.madhusanka">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div>
