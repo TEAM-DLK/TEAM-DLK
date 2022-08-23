@@ -28,6 +28,11 @@ ___
  
  
   
+## Social 📫
+<div align="center">
+    <a href="mailto:henrique.djdoozy39@gmail.com">
+         <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:henrique.claranhan@outlook.com">
+   
      </a>
     &nbsp;
     <a href="https://t.me/SLDOOZY">
