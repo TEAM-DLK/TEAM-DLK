@@ -30,14 +30,15 @@ ___
   
 ## Social 📫
 
+    </a>
     &nbsp;
-    <a href="https://t.me/SLSOOZY">
-        <img alt="Telegram" 
+<a href="https://t.me/SLSOOZY">
+<img alt="Telegram" 
 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://www.instagram.com/_dhananjaya.madhusanka">
-        <img alt="Instagram" 
+<a href="https://www.instagram.com/_dhananjaya.madhusanka">
+<img alt="Instagram" 
 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div>
