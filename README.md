@@ -29,7 +29,7 @@ ___
  
   
 ## Social 📫
-    </a>
+
     &nbsp;
     <a href="https://t.me/SLSOOZY">
         <img alt="Telegram" 
