@@ -18,8 +18,8 @@ ___
   
 
  ​<img src="gifs/coding.gif" alt="coding ?"> 
-  
- ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> 
+ 
+ ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> | <code>SHELL</code> 
   
   
 
