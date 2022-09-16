@@ -1,0 +1,8 @@
+python-decouple
+Telethon==1.24.0
+cryptg
+heroku3
+sqlalchemy==1.4.11
+psycopg2-binary
+gitpython
+asyncio
