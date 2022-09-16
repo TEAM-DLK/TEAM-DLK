@@ -1,13 +1,12 @@
 
 {
-    "name": "Doozy Spam Bot",
-    "description": "MOST POWERFUL + STABLE SPAM BOTS",
+    "name": "DOOZY SPAM BOT",
+    "description": "MOST POWERFUL + STABLE SPAM BOT",
     "logo": "",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "deadlySameer",
         "SpamBots"
     ],
     "repository": "https://t.me/any24e",
@@ -79,17 +78,17 @@
         "value": "",
         "required": true
       },
-      "BOT_TOKEN10": {
+       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-       "SUDO_USER": {
+        "SUDO_USER": {
             "description": "Sudo users id space by space",
             "value": "",
             "required": false
         },
-      "OWNER_ID": {
+        "OWNER_ID": {
             "description": "owner Id",
             "value": "",
             "required": true
