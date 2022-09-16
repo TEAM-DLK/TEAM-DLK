@@ -1,6 +1,6 @@
 
 {
-    "name": "Deadly Spam Bot",
+    "name": "Doozy Spam Bot",
     "description": "MOST POWERFUL + STABLE SPAM BOTS",
     "logo": "",
     "keywords": [
@@ -10,9 +10,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/THE_DEADLY_NETWORK",
-    "website": "https://t.me/THE_DEADLY_NETWORK",
-    "success_url": "https://t.me/THE_DEADLY_NETWORK",
+    "repository": "https://t.me/any24e",
+    "website": "https://t.me/any24e",
+    "success_url": "https://t.me/any24e",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
