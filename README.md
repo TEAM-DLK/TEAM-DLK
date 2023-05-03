@@ -1,7 +1,7 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
 <p>
-    <a href="https://t.me/any24e" target="blank"><img src="https://img.shields.io/badge/@Any24-DLK-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@DLK-30302f?style=flat&logo=telegram" /></a>
 
 ___
 
@@ -31,7 +31,7 @@ ___
 ## Social 📫..
 
 
-<a href="https://t.me/SLDOOZY">
+<a href="https://t.me/DOOZY_OFF">
 <img alt="Telegram" 
 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
