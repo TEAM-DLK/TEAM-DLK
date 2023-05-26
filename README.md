@@ -1,6 +1,8 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
 <link rel="shortcut icon" href="/public/icons/favicon-prompt-192.png" sizes="192x192" type="image/png">
+<meta property="og:title" content="SlZonic (Sl Zonic)">
+<meta property="og:description" content="Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, &amp; interpreter.">
 
 <p>
     <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@DLK-30302f?style=flat&logo=telegram" /></a>
