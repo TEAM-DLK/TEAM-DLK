@@ -1,6 +1,6 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
-## <img src="gifs/wizard-cat.svg" width="100px">  <img src="gifs/coffee.svg" width="29px">  <img src="gifs/monitor.svg" width="29px">  <img src="gifs/phone.svg" width="29px"> 
+## <img src="gifs/wizard-cat.svg" width="250px">  <img src="gifs/coffee.svg" width="50px">  <img src="gifs/monitor.svg" width="125px">  <img src="gifs/phone.svg" width="75px"> 
 <p>
     <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@DLK-30302f?style=flat&logo=telegram" /></a>
 
