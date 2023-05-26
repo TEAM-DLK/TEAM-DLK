@@ -1,5 +1,7 @@
 ## <img src="gifs/Hi.gif" width="29px"> 
 
+<link rel="shortcut icon" href="/public/icons/favicon-prompt-192.png" sizes="192x192" type="image/png">
+
 <p>
     <a href="https://t.me/DOOZY_OFF" target="blank"><img src="https://img.shields.io/badge/@DLK-30302f?style=flat&logo=telegram" /></a>
 
