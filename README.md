@@ -1,4 +1,4 @@
-## <img src="gifs/Hi.gif" width="29px"> 
+## <img src="gifs/Hi.gif" width="29px"> Hi
 
 
 
@@ -21,7 +21,7 @@
  
  
   
-## Social 📫..
+## 📲Social 
 
 
 <a href="https://t.me/DLKDevelopers">
@@ -45,7 +45,7 @@ ___
 
 
  
--​ [![​GitHub followers​](https://img.shields.io/github/followers/TEAM-DLK.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TEAM-DLK?tab=followers) 
+ [![​GitHub followers​](https://img.shields.io/github/followers/TEAM-DLK.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TEAM-DLK?tab=followers) 
 
 
 
