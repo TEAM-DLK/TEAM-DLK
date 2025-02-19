@@ -31,7 +31,7 @@ src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=teleg
     &nbsp;
 <a href="https://facebook.com/DHANANJAYA.MADHUSHANKA.0">
 <img alt="Facebook" 
-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+src="https://img.shields.io/badge/Facebook-%23E4405F.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>
 </div>
 
