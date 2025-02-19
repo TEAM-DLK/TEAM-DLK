@@ -20,10 +20,8 @@ ___
 
  ​<img src="gifs/DOOZY 1.gif" alt="coding ?"> 
  
- ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> | <code>SHELL</code> | <code>JavaScript</code>
   
   
-
   
  ​</div>
  
@@ -32,13 +30,13 @@ ___
 ## Social 📫..
 
 
-<a href="https://t.me/DOOZY_OFF">
+<a href="https://t.me/DLKDevelopers">
 <img alt="Telegram" 
 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;
-<a href="https://www.instagram.com/_dhananjaya.madhusanka">
-<img alt="Instagram" 
+<a href="https://facebook.com/DHANANJAYA.MADHUSHANKA.0">
+<img alt="Facebook" 
 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 </div>
